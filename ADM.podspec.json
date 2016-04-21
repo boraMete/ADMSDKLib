@@ -10,7 +10,7 @@
 "ios": "7.0"
 },
 "source": {
-"http": "https://github.com/boraMete/ADMSDKLib/ADM.zip"
+"http": "https://github.com/boraMete/ADMSDKLib/raw/master/ADM.zip"
 },
 "frameworks": [
 "Foundation",
